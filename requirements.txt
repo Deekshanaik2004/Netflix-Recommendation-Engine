@@ -1,0 +1,17 @@
+#core API
+
+fastapi
+uvicorn
+python-dotenv
+httpx
+
+
+#Data &ML(Match Pickle)
+numpy 
+scipy
+pandas
+scikit-learn
+joblib
+
+#frotend(optimal)
+streamlit
